@@ -1,0 +1,11 @@
+C:\VideoAulas\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+C:\VideoAulas\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+C:\VideoAulas\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+C:\VideoAulas\HelloService\HelloServiceHost\bin\Debug\HelloService.dll
+C:\VideoAulas\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+C:\VideoAulas\HelloService\HelloServiceHost\bin\Debug\HelloService.dll.config
+C:\VideoAulas\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojAssemblyReference.cache
+C:\VideoAulas\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CoreCompileInputs.cache
+C:\VideoAulas\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CopyComplete
+C:\VideoAulas\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+C:\VideoAulas\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb

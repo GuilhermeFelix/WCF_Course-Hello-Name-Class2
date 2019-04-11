@@ -1,0 +1,7 @@
+C:\VideoAulas\HelloService\HelloService\bin\Debug\HelloService.dll.config
+C:\VideoAulas\HelloService\HelloService\bin\Debug\HelloService.dll
+C:\VideoAulas\HelloService\HelloService\bin\Debug\HelloService.pdb
+C:\VideoAulas\HelloService\HelloService\obj\Debug\HelloService.csprojAssemblyReference.cache
+C:\VideoAulas\HelloService\HelloService\obj\Debug\HelloService.csproj.CoreCompileInputs.cache
+C:\VideoAulas\HelloService\HelloService\obj\Debug\HelloService.dll
+C:\VideoAulas\HelloService\HelloService\obj\Debug\HelloService.pdb
